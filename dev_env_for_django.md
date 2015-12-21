@@ -1,8 +1,8 @@
-# Prepare development environment of AngelsCity on Ubuntu
+# Prepare development environment of Django on Ubuntu
 
 
 ## Install LAMP
-AngelsCity will run on MySQL db, to install MySQL db, tasksel is recommended way to install LAMP server.
+Django will run on MySQL db, to install MySQL db, tasksel is recommended way to install LAMP server.
 
     sudo apt-get install tasksel
     sudo tasksel
@@ -11,7 +11,7 @@ AngelsCity will run on MySQL db, to install MySQL db, tasksel is recommended way
 ## Create virtualenv
 
     virtualenv -p python3 --no-site-packages ~/virtualenv/py3dj8
-where `-p` specify python exec name, `--no-site-packages` make a clean copy of current python3 environment, `~/virtualenv/py3dj8` is your virtualenv path for developing AngelsCity
+where `-p` specify python exec name, `--no-site-packages` make a clean copy of current python3 environment, `~/virtualenv/py3dj8` is your virtualenv path for developing django project.
 
 ## Active virtualenv
     source virtualenv/py3dj8/bin/activate
