@@ -1,5 +1,5 @@
 ## Install
-    sudo apt-get install virtualenvwrapper
+    sudo pip install virtualenvwrapper
 
 ## Configuration
 Add following codes into shell profile, such as ~/.zshrc
