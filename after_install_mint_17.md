@@ -1,4 +1,7 @@
 title: Actions After Installed Linux Mint 17.2
+tags:
+- Linux
+- Mint
 ----
 # Actions After Installed Linux Mint 17.2
 1. Update package source list with Software Sources

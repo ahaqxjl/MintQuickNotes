@@ -1,4 +1,9 @@
 title: Prepare development environment of Django on Ubuntu
+tags:
+- Linux
+- Ubuntu
+- Mint
+- Django
 -----
 # Prepare development environment of Django on Ubuntu
 

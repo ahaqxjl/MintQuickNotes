@@ -1,4 +1,7 @@
 title: Virtualenvwrapper tutorial
+tags:
+- virtualenv
+- virtualenvwrapper
 ---
 ## Install
     sudo pip install virtualenvwrapper
