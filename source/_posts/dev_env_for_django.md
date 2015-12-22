@@ -1,3 +1,5 @@
+title: Prepare development environment of Django on Ubuntu
+-----
 # Prepare development environment of Django on Ubuntu
 
 
