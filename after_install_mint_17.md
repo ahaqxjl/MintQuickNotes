@@ -1,3 +1,5 @@
+title: Actions After Installed Linux Mint 17.2
+----
 # Actions After Installed Linux Mint 17.2
 1. Update package source list with Software Sources
 1. Download and install Sogou Pinyin (logout and then config)
