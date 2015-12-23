@@ -38,3 +38,20 @@ such as:
 
     # update pip for all virtualenvs
     allvirtualenv pip install -U pip
+
+### Navigate
+    # Open path of current virtualenv
+    cdvirtualenv
+    # Open path of site packages of current vritualenv
+    cdsitepackages
+    # List all site packages of current virtualenv
+    lssitepackages
+    # connect working project with current virtualenv
+    setvirtualenvproject
+    # go to working directory of project connected to current virtualenv
+    cdproject
+
+### Get help
+List all commands and description of virtualenvwrapper
+
+    virtualenvwrapper
