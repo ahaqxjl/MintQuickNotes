@@ -1,3 +1,7 @@
+title: Install Pillow
+tags:
+- Pillow
+------
 # Install Pillow
     pip install Pillow
 ## error while installing
